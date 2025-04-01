@@ -26,7 +26,12 @@ Run the program and use the following commands:
 ### Example
 
 ```plaintext
-Enter year, month, and day (or 'exit' to finish, 'compare' to compare, 'update' to modify a date, 'show' to display all dates):
+1) Enter year, month, and day
+2) Type 'exit' to finish
+3) 'compare' to compare two dates
+4) 'update' to modify a date
+5) 'show' to display all dates
+
 2024 3 31
 March 31, 2024
 Day of the week: Sunday
